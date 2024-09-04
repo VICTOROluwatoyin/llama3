@@ -1,7 +1,8 @@
 python-dotenv==1.0.1
 streamlit==1.37.0
 
-
+layoutparser==0.3.4
+opencv-python-headless==4.8.0.76
 transformers==4.43.3
 sentence-transformers==3.0.1
 nltk==3.0.1
